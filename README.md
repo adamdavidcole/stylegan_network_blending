@@ -14,7 +14,7 @@ _Or: my interpid, but ultimately futile attempt to make GAN portraits of my frie
 
 
 ### Video
-Video walkthrough link
+[Notebook walkthrough](https://www.youtube.com/watch?v=fSDtTEVMMTo)
 
 
 ## Motivation
