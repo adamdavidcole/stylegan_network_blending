@@ -1,6 +1,21 @@
 # Network Blending Interface
 _Or: my interpid, but ultimately futile attempt to make GAN portraits of my friends_
 
+### Code
+**StyleGAN3 Network Blending UI**
+- [Repo](https://github.com/adamdavidcole/stylegan3-fun-blend)
+- [Notebook](https://github.com/adamdavidcole/stylegan3-fun-blend/blob/main/blend.ipynb)
+
+  
+###
+**StyleGAN2 Network Blending UI**
+- [Repo](https://github.com/adamdavidcole/stylegan2-ada-pytorch-adam) 
+- [Notebook](https://github.com/adamdavidcole/stylegan2-ada-pytorch-adam/blob/main/network_blending_gui.ipynb)
+
+
+### Video
+Video walkthrough link
+
 
 ## Motivation
 StyleGAN is well known for making people who don't exist. But while fake faces are cool, I'm more interested in creating images of real people. I began this project wondering how I could use StyleGAN to create expressive portraits of my friends.
@@ -146,16 +161,6 @@ However, the effectiveness of the network blending UI as both an educational and
 
 Overall, while I didn't quite achieve my initial goal, I believe the development of this tool will come in handy for future explorations and I hope to continue pushing forward on the topic of meaningful, expressive portraiture with GAN architectures.
 
-
-## Code
-#### StyleGAN3 Network Blending UI
-- [Repo](https://github.com/adamdavidcole/stylegan3-fun-blend)
-- [Notebook](https://github.com/adamdavidcole/stylegan3-fun-blend/blob/main/blend.ipynb)
-
-  
-#### StyleGAN2 Network Blending UI
-- [Repo](https://github.com/adamdavidcole/stylegan2-ada-pytorch-adam) 
-- [Notebook](https://github.com/adamdavidcole/stylegan2-ada-pytorch-adam/blob/main/network_blending_gui.ipynb)
 
 ## Refrences
 #### StyleGAN3 Network Blending UI
