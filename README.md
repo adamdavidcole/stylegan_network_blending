@@ -58,7 +58,7 @@ I rebuilt the network blending UI notebook for StyleGAN2, using [dvschultz's ble
 ![StyleGAN2 EZ blend controls](images/stylegan2_butterfly_blends/butterfly_blend_sg2.png)
 *StyleGAN2 buttefly blend with Z seed*
 
-**The medium new:**
+**The medium news:**
 - Projections in the source and destination networks were indeed more reliable. But the results still were quite lackluster. The people in the projections were just slightly too off from the original to be useful as the starting point for a portrait and the corresponding image in the destination model were less interesting than when starting with a Z seed.
 
 ![StyleGAN2 EZ blend controls](images/stylegan2_butterfly_blends/projection_blend1.png)
